@@ -10,5 +10,5 @@ What I learnt:
 - That a project based, applied learning model is the way to go.
 - That practice makes perfect.
 
-Thank you for reading
+Thank you for reading,
 _Tom Dichmont_
